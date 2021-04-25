@@ -1,6 +1,6 @@
 # Warning !
 
-+ Don't add theme package ** luci-theme-argon-lr **
++ Don't add theme package **luci-theme-argon-lr**
 
 	It will cause an exception
 	Example below:
